@@ -1,0 +1,4 @@
+{
+  "app_serial": "YOUR_PICO_APPLICATION_USB_SERIAL",
+  "boot_serial": "YOUR_PICO_BOOTSEL_USB_SERIAL"
+}

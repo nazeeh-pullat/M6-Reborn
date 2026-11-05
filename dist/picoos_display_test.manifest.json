@@ -1,0 +1,11 @@
+{
+  "binary": "picoos_display_test.bin",
+  "uf2": "picoos_display_test.uf2",
+  "binary_bytes": 231284,
+  "uf2_bytes": 462848,
+  "family": "RP2040",
+  "family_id": "0xe48bff56",
+  "binary_sha256": "1439cab1182fd74df71a07cfea1ca0ebf9d9a28b459e52d3eb9af2f9d0e0687f",
+  "uf2_sha256": "869b29d2d8b66eecf9b273cc5c04dba02113b36cbf08cd8b3bc9c0cfba53ca60",
+  "round_trip_verified": true
+}

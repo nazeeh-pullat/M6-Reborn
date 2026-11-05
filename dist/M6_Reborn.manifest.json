@@ -1,0 +1,11 @@
+{
+  "binary": "M6_Reborn.bin",
+  "uf2": "M6_Reborn.uf2",
+  "binary_bytes": 248892,
+  "uf2_bytes": 498176,
+  "family": "RP2040",
+  "family_id": "0xe48bff56",
+  "binary_sha256": "562bf909efc40ea4c02f474450ff4866afe3bd1214c647685d6df15eb95ff43a",
+  "uf2_sha256": "4034f53fd9c47707df4edf36c8af0dfe20b439224de22a2c24af852192ee5aea",
+  "round_trip_verified": true
+}

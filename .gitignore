@@ -1,0 +1,12 @@
+/build/
+/tools/
+/deps/
+/.venv/
+/logs/
+/backups/
+/config/device.json
+__pycache__/
+*.pyc
+*.log
+/dist/PicoOS_Cadillac.*
+/docs/MISSION.txt

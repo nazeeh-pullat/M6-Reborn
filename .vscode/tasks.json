@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {"label":"Build M6 Reborn (all)","type":"shell","command":"powershell.exe","args":["-NoProfile","-File","${workspaceFolder}/scripts/Build.ps1","-Target","All"],"group":{"kind":"build","isDefault":true},"problemMatcher":"$gcc"},
+    {"label":"Build Pico-only smoke test","type":"shell","command":"powershell.exe","args":["-NoProfile","-File","${workspaceFolder}/scripts/Build.ps1","-Target","Smoke"],"problemMatcher":"$gcc"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "binary": "picoos_smoke.bin",
+  "uf2": "picoos_smoke.uf2",
+  "binary_bytes": 26316,
+  "uf2_bytes": 52736,
+  "family": "RP2040",
+  "family_id": "0xe48bff56",
+  "binary_sha256": "9ac1a476c7701d9f4d8c8c3107df4c087e7272226f091b8b8b14ddc6b4e342d8",
+  "uf2_sha256": "5d81541696d711efaef3ed43c17d5965a56dbe13fcbe217234e082845a42168d",
+  "round_trip_verified": true
+}
